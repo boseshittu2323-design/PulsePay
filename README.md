@@ -1,4 +1,4 @@
-# VeriDose
+# PulsePay
 
 **Pharmaceutical supply chain verification and anti-counterfeit tracking, built on Stellar.**
 
